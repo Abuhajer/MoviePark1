@@ -72,3 +72,8 @@ footer{
          padding-top: 550px;
          color:   #FA57B5
      }
+
+     h3
+     {  color: #02FA1F;
+        text-align: right;
+     }
