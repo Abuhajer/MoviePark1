@@ -8,11 +8,12 @@ else
 document.write('<h3>'+"Welcome "+name+'</h3>')
 
 }
-
+//--------------------------
 function Nameinfo()
 {
-    var name = prompt ("Enter Your name pls ");
+    var name = prompt ("Enter Your name please ");
     return name
 }
-
+//------------------------------------------------
 Valid(Nameinfo());
+
